@@ -1,6 +1,6 @@
 
 
-# <img width=30 src="./assets/logo.png"/> Kids-School
+# <img width=30 src="./assets/logo.png"/> KinderJoy-School
 
 
 
